@@ -1,8 +1,4 @@
 # ColorSnapX: Color Picker Chrome Extension 🎨
-![1_adjusted](https://github.com/Sankalp20000/ColorSnapX/assets/81378607/d2ac34d3-ec03-462a-a3fb-fe99b3065c69)
-![2_adjusted](https://github.com/Sankalp20000/ColorSnapX/assets/81378607/4d284817-9c53-4113-939f-805bf5c33bc5)
-![3_adjusted](https://github.com/Sankalp20000/ColorSnapX/assets/81378607/7b38e37c-288d-4b20-b9ee-596fcc80fe65)
-
 
 ColorSnapX is a user-friendly and efficient Chrome extension that simplifies the process of selecting, managing, and exploring colors. With an intuitive color picker and eye dropper tool, ColorSnapX streamlines your color choices, making it the perfect companion for designers, developers, and creative enthusiasts.
 
@@ -28,8 +24,9 @@ ColorSnapX is a user-friendly and efficient Chrome extension that simplifies the
 
 ## Screenshots
 
-![Screenshot 1](/path/to/screenshots/screenshot1.png)
-![Screenshot 2](/path/to/screenshots/screenshot2.png)
+![Screenshot 1](https://github.com/Sankalp20000/ColorSnapX/assets/81378607/d2ac34d3-ec03-462a-a3fb-fe99b3065c69)
+![Screenshot 2](https://github.com/Sankalp20000/ColorSnapX/assets/81378607/4d284817-9c53-4113-939f-805bf5c33bc5)
+![Screenshot 3](https://github.com/Sankalp20000/ColorSnapX/assets/81378607/7b38e37c-288d-4b20-b9ee-596fcc80fe65)
 
 ## Technologies Used
 
